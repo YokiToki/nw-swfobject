@@ -1,1 +1,0 @@
-swfobject/swfobject/swfobject.js

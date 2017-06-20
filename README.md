@@ -23,7 +23,7 @@ swfobject.embedSWF(
     300, 
     120, 
     10,
-    "/node_modules/nw-swfobject/expressInstall.swf",
+    this.expressInstallPath,
 	flashvarsObj, 
     parObj, 
     attObj, 
