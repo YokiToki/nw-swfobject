@@ -1,0 +1,27 @@
+{
+  "name": "nw-swfobject",
+  "version": "2.3.0",
+  "description": "Easealy use SWFObject in NW.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YokiToki/nw-swfobject.git"
+  },
+  "keywords": [
+    "nw.js",
+    "swfobject",
+    "swf",
+    "flash",
+    "embed",
+    "object"
+  ],
+  "author": "Stanislav Tamat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YokiToki/nw-swfobject/issues"
+  },
+  "homepage": "https://github.com/YokiToki/nw-swfobject#readme"
+}

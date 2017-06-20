@@ -1,0 +1,3 @@
+[submodule "swfobject"]
+	path = swfobject
+	url = https://github.com/swfobject/swfobject
