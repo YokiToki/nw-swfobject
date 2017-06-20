@@ -1,6 +1,6 @@
 {
   "name": "nw-swfobject",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "Easealy use SWFObject in NW.js",
   "main": "index.js",
   "scripts": {
