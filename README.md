@@ -1,7 +1,6 @@
 # nw-swfobject
 
-[![nw-swfobject version](http://img.shields.io/npm/v/nw-swfobject.svg)]
-[![swfobject version](https://img.shields.io/github/tag/swfobject/swfobject.svg?label=swfobject.js)]
+![nw-swfobject version](http://img.shields.io/npm/v/nw-swfobject.svg)![swfobject version](https://img.shields.io/github/tag/swfobject/swfobject.svg?label=swfobject.js)
 
 
 ## Installation
